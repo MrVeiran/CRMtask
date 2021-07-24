@@ -1,0 +1,15 @@
+C:\gitsend\gitsend\CRMGURUtask1\CRMGURUtask1\obj\Release\CRMGURUtask1.csproj.AssemblyReference.cache
+C:\gitsend\gitsend\CRMGURUtask1\CRMGURUtask1\obj\Release\CRMGURUtask1.Form1.resources
+C:\gitsend\gitsend\CRMGURUtask1\CRMGURUtask1\obj\Release\CRMGURUtask1.Properties.Resources.resources
+C:\gitsend\gitsend\CRMGURUtask1\CRMGURUtask1\obj\Release\CRMGURUtask1.csproj.GenerateResource.cache
+C:\gitsend\gitsend\CRMGURUtask1\CRMGURUtask1\obj\Release\CRMGURUtask1.csproj.CoreCompileInputs.cache
+C:\gitsend\gitsend\CRMGURUtask1\CRMGURUtask1\bin\Release\Database1.mdf
+C:\gitsend\gitsend\CRMGURUtask1\CRMGURUtask1\bin\Release\Database1_log.ldf
+C:\gitsend\gitsend\CRMGURUtask1\CRMGURUtask1\bin\Release\CRMGURUtask1.exe.config
+C:\gitsend\gitsend\CRMGURUtask1\CRMGURUtask1\bin\Release\CRMGURUtask1.exe
+C:\gitsend\gitsend\CRMGURUtask1\CRMGURUtask1\bin\Release\CRMGURUtask1.pdb
+C:\gitsend\gitsend\CRMGURUtask1\CRMGURUtask1\bin\Release\Newtonsoft.Json.dll
+C:\gitsend\gitsend\CRMGURUtask1\CRMGURUtask1\bin\Release\Newtonsoft.Json.xml
+C:\gitsend\gitsend\CRMGURUtask1\CRMGURUtask1\obj\Release\CRMGURUtask1.csproj.CopyComplete
+C:\gitsend\gitsend\CRMGURUtask1\CRMGURUtask1\obj\Release\CRMGURUtask1.exe
+C:\gitsend\gitsend\CRMGURUtask1\CRMGURUtask1\obj\Release\CRMGURUtask1.pdb
